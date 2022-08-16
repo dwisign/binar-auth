@@ -1,0 +1,9 @@
+.list-user{
+    display: flex;
+}
+.user-item{
+    width: 200px;
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+}
